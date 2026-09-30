@@ -3,3 +3,6 @@ Hacktoberfest is an event which happens in October.
 
 Explain more about Hacktoberfest?
 this line is added for merge conflict
+
+
+this line is added to show git ignore file
